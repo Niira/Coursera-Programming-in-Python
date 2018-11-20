@@ -1,0 +1,39 @@
+[Ссылка на слайды](https://www.coursera.org/learn/diving-in-python/supplement/UDDNu/slaidy)
+
+Коллекции
+
+[collections.slides.html](https://d3c33hcgiwev3.cloudfront.net/_a18d9e87a4957e540292c01e41a339b5_collections.slides.html?Expires=1542844800&Signature=QCpTeFV42T0-fTBS9TlSbSqvDMmN0FTSSnytzwTjU59iskIdmUWkcNoeGC8QlTKkU4y1vAjARLmmUM11kFX1kjJ0hIdLQ-e2D1sBOwLpGLjgoo2xFw6pPNQKVC2vJj~Oq-uxtjtur4xHR9mBU1D~zNChWMitoC1ZRGGv~AUUIYc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+Пример про списки
+
+[median.slides.html](https://d3c33hcgiwev3.cloudfront.net/_a18d9e87a4957e540292c01e41a339b5_median.slides.html?Expires=1542844800&Signature=UpSIKVYgyX9betiuCpTnKssoM3xW0cj8uO7UkxYqmqHXN8Ijyci9KJ8gqVAhpT4-yH5Pfi2-B~28LVy8mOefO3ZS2~QiHUYbvccDBv0GfRC4v-fZ8p34~kcpop3Eg5ogVjh9BymU-wFmkniQpSoHRFxymdafwySbhabMQFATm9A_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+Пример про словари
+
+[zen.slides.html](https://d3c33hcgiwev3.cloudfront.net/_a18d9e87a4957e540292c01e41a339b5_zen.slides.html?Expires=1542844800&Signature=a00uPDI1p9Vu4pQ4X0Tp9dbNRcBLRhBDvkU1TWXqLUditkpWTr5zFQ4SzDHIwYAF-0fiewkHBrGbDQphC~MjgTcPNn58JdD8oelQnSlQJNlXgvU43sDFJ7lVlq6liayevEensbNRYoq4rQIs9w77hZ9~IWDt9P0AbRp2f9JuGqc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+Пример про множества
+
+[randint.slides.html](https://d3c33hcgiwev3.cloudfront.net/_a18d9e87a4957e540292c01e41a339b5_randint.slides.html?Expires=1542844800&Signature=UMsrbLYB6Zl9um5ubLStLBl0xYqJe~YS3eyAEYrFP~JD96C5ktlC6e1YQaRb0pNFvVDkDMuyCaCMd6HJUQVxmlGvt~OJbbSbJIJj8YfVjsv3eCloSind6MAuGSR-XdpcAcPqglm0oGGGoVd8hlt8jFCnDTxuDvKNfhte-YDS6Nw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+[Ссылка на слайды](https://www.coursera.org/learn/diving-in-python/supplement/GzJE2/slaidy)
+
+Функции
+
+[functions.slides.html](https://d3c33hcgiwev3.cloudfront.net/_dc3111e2054d0843184d3cbf912b144e_functions.slides.html?Expires=1542844800&Signature=HAYzMh2CfX749A7zAda7W-zw4JmXv0caimCj1XWvH6QkJob1yeYuj5FAGEEPsaCfkhInLUyG-rOvrD57JWWa9cgH4u-zN5CBFvu5lngr0iWHNzwa0Xno-uEgpPiO6BddoK6WE6~tdQouAXdmS8BrNmUSwoEry4RWapTUv~tIyPw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+Файлы
+
+[files.slides.html](https://d3c33hcgiwev3.cloudfront.net/_dc3111e2054d0843184d3cbf912b144e_files.slides.html?Expires=1542844800&Signature=IrDReliaE3SwpJpZ5-rNysmoXvQQxKKteBqEkMJGcOEJe7bee8n~ByY4E8L5tzDrUwe7adaloI3XwhCrxHbJr-82rfjWeHe8NSdQnCTwtaYaD7i~X4uN9BW1NZS2DmmVR7nU8F6SAHF77081xszI7r935VyRcrb~OwlpIaz69Tg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+Функциональное программирование
+
+[functionalprogramming.slides.html](https://d3c33hcgiwev3.cloudfront.net/_dc3111e2054d0843184d3cbf912b144e_functionalprogramming.slides.html?Expires=1542844800&Signature=QF7oDo2Y3uprbKpkBkwBztdA-448y2j7oq71cUDf8FwwCWBSzSMoQP8Xf2UYOw0QS3ACSOp-kHIu7ZM7qpq3kb5yByzanSs6tHp7y3ZBWVRkv6NTHTnE45YPQ7XxvDW29-NR~qQXbQzel~ZhBWndBGHsxz~j5n9Fe3LChJqn2sI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+Декораторы
+
+[decorators.slides.html](https://d3c33hcgiwev3.cloudfront.net/_dc3111e2054d0843184d3cbf912b144e_decorators.slides.html?Expires=1542844800&Signature=gG9Zm9uh~uvdvWJqCmb1v2TG7SLJaXqiOFgzWf3qxzlvvRhtIEOjw-GK-OGQdQHp-Sw7-9tnpFOU7G99pO4Vn1oW7AUGtNEXfBVQS7LH92ZI3luXCFfz1KVbdlJb33K2spd3o~6z1sxM9tFDgEQ8Ne~Qbs4KnUw5VZPpe~oBZfI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+Генераторы
+
+[generators.slides.html](https://d3c33hcgiwev3.cloudfront.net/_dc3111e2054d0843184d3cbf912b144e_generators.slides.html?Expires=1542844800&Signature=jRh~4DIQ2xN7I9uOyBR4KwKFUdWWnrMlXwT7Gw6bdCel9cUMGrdhx~vjOhn-BSnJxSmLckJOeGo7wH0UUdbklqkQLQeNQRhATqo5o1z4mvxlWX-Vzh9YfolRd8O4KTbUZ40Del-n3zD2YBlduQ2ZsfudQ9I5FkU2HBX8CL-0pls_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)

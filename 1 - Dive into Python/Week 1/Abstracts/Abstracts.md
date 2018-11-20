@@ -1,0 +1,37 @@
+[Ссылка на слайды](https://www.coursera.org/learn/diving-in-python/supplement/5nEzs/slaidy)
+
+Базовые типы: численные типы
+
+[basic_types_numbers slides.html](https://d3c33hcgiwev3.cloudfront.net/6p6Fg8cYEeiQ4QpwNIMilg_eb1c40c0c71811e8ba890b8f62b9d7b0_basic_types_numbers-slides.html?Expires=1542844800&Signature=ETRFfjgQvMkVkMeOXD-KA5gpab0qOsUutIrbpKXruTI5JkpANrlSpsM73A~10Tba2Of363kRImiQrBu0f5Ag92Ulxu-dAPUD3BkJgB19f0U6h~xMQ1B1kYrPAevL~m-5Dc0PZ84wf3xsjyHeVmDAysp8yIhFn2CRtuRE3ctOZIc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+Базовые типы: логический тип
+
+[basic_types_bool.slides.html](https://d3c33hcgiwev3.cloudfront.net/_7ab638d78b9f0a4de4cbd20249a02688_basic_types_bool.slides.html?Expires=1542844800&Signature=ADoVWxhkPUpYFdASwwSRmKOvUlvjNPLxMemVQnarvkomQco9Y5lNUUh2gUMM3b6pdr7uKP0ydYfMv4mtMi6sP-HEYMnmwLPLfjzaKekxyfzCIgE26H7IeDrRZcNc1ylP2wgBX-To4MQ5ajyVUNxRl2hatCpLw3G1LTekxacksCg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+Базовые типы: строки и байтовые строки
+
+[basic_types_strings_bytes.slides.html](https://d3c33hcgiwev3.cloudfront.net/_7ab638d78b9f0a4de4cbd20249a02688_basic_types_strings_bytes.slides.html?Expires=1542844800&Signature=dz1vBHPSRGFMN4UmgDULvwMfSj82pMRy8i9N-eo3fqPYwkeqn3qZNmilqh6G4rDpmzmFxpvSQhHHODa58sX0tl2OEZATcgpuXZaMrMXhtcPP0vfFx0uhlql4kOruTOJi4aXOoxaack9OD4OIxFoqmerkkQJiYzDnKyxtRf5QoAU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+Базовые типы: объект None
+
+[basic_types_none.slides.html](https://d3c33hcgiwev3.cloudfront.net/_7ab638d78b9f0a4de4cbd20249a02688_basic_types_none.slides.html?Expires=1542844800&Signature=E90kkKxJzTPim7fLnvkznfEkQTPvq4CFEvG82g9ThGKq6~PJ6tUjldpGbKavt0vr56n34-~BcwO3QadCVmUVB57Gx7yNImAQ~aiodHaEZUpqaxrvSrXYu6UsY~0qNaSvNpXm~oGPKk85~uFVKREVNBkNLYg5A8thM03bcBMK93E_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+Конструкции управления потоком
+
+[kostrukcii_upravleniya_potokom.slides.html](https://d3c33hcgiwev3.cloudfront.net/_7ab638d78b9f0a4de4cbd20249a02688_kostrukcii_upravleniya_potokom.slides.html?Expires=1542844800&Signature=LAwoww7evcp2JFhbwgM5zVJGSHOv82fkOLXRVRFNT4VVP7qTUrQb8Zelqy~L6yTMofAkaQc2wuPDKez0MzVc6DvosnboF7sv2ozbVYx-4xafr5KkcMSw4BGNTK3pbqatqlSM6UgyMx5QwLVykcuacv5Ju7XadEntdDhVFqJbMO8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+Пример на управление потоком
+
+[01_primer_na_konstrukcii_upravleniya_potokom.slides.html](https://d3c33hcgiwev3.cloudfront.net/_9db154b9cb5aaeacb9c3a1b69eed1482_01_primer_na_konstrukcii_upravleniya_potokom.slides.html?Expires=1542844800&Signature=AZxxnVOsX3vrEdsIisVZUUuvfzDX-yX9OrFNCauE8cBl~B~8I2hZYj4RzjYA~A-r8EPXjRPo5LWxn7-B7ddFosocKahD8maI8ZhBbkhRGnrjpFwRQYesiGlpXu1H6trQzXrfYiqmv2aKLqKnUwVebgvAP-0EYreq~T2bX81Ah8M_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+[Ссылка на слайды](https://www.coursera.org/learn/diving-in-python/supplement/ijE40/slaidy)
+
+Пример. Пишем программу
+
+[01_primer_pishem_programmu.slides.html](https://d3c33hcgiwev3.cloudfront.net/mMLF_JGbEei8YA7p9DFkZg_98f631f0919b11e8a136d7fed3ad9891_01_primer_pishem_programmu.slides.html?Expires=1542844800&Signature=QvPIe6mrLod3f4xvywKL1ZTzcPT9vCku6uoi2mh7q2N0uRtEHiF0hKYO~DFHcimz4N-raQEZnMSSHuHsuds84VEU01EjR5GxW~K9fEkqTgSJj4EQ4zMKiaeK8YqaX1UTdArHSrl7sXdr6-nmF1kX03gUnlL7BYR8plYSOzb2Zi8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+[Ссылка на слайды](https://www.coursera.org/learn/diving-in-python/supplement/blLeV/slaidy)
+
+Объектная структура в Python
+
+[object_structure.slides.html](https://d3c33hcgiwev3.cloudfront.net/_7ab638d78b9f0a4de4cbd20249a02688_object_structure.slides.html?Expires=1542844800&Signature=RqTJZlbVg8z9N8WQr32ng2VkUw-zjr9loZw2CVUnb976K19O806aBaJucwtGiuiR4UDgAXdFMuKwBJP9dq58zfzCgj2DwZLGNc08ES8Urk6o1t2iAS0vf5y7nJOehYyqyIetUTcpSBL4l0jSTxM9UPwcQhMiswfHlJXy0zmyzMY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)

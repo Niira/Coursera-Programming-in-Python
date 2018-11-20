@@ -1,0 +1,41 @@
+[Ссылка на слайды](https://www.coursera.org/learn/diving-in-python/supplement/23PLW/slaidy)
+
+Магические методы
+
+[magicmethods.slides.html](https://d3c33hcgiwev3.cloudfront.net/_45b8483b2b84700bceb8582a44aaa5f3_magicmethods.slides.html?Expires=1542844800&Signature=k3EGT1KSlA~fRaZckGRWpCn32tjYcNYyViKmYKGErrKR7-M4-cVjtWbPMANQ4P8RzuO9xpP9VnKeR8pYW7MaTpEtR-ELRVTkwiefAJd8VA9zDhm0SUNLV5AeigbbqhB2b6x8QzhtCo80NBcoY34gYInZFeu7GVHAd0oom7bR~TU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+Итераторы
+
+[iterators.slides.html](https://d3c33hcgiwev3.cloudfront.net/_45b8483b2b84700bceb8582a44aaa5f3_iterators.slides.html?Expires=1542844800&Signature=CEOwVUUd0DHdz5P1W5i1qWHMB0CAwEGxn4080VcVrGYBRo~9deyyEY~Lq88cSBCvHd1iz2l5wC1I6tKQGc8PeEABBDLWzLTT~dGK65tpbacdEWVUCkpOO4S76LhS077G-l3Z-YobaJo2M-2UknKP6EaQF0iyXOn71eDirMnd1Hg_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+Контекстные менеджеры
+
+[contextmanagers.slides.html](https://d3c33hcgiwev3.cloudfront.net/_45b8483b2b84700bceb8582a44aaa5f3_contextmanagers.slides.html?Expires=1542844800&Signature=Ls4zd10~PdDHEqzHg3u5vHPZok3o9v6DIZxvJBWnbgRIN0qH3nLvsFcg5QF1TmeEGs0FJOuMlwKcKq3NK6wx0Nkbb4uNb3~HutPDLUuIiZ5f4SaBP9-QJ8v4TryFX1FGgJqXA5jheD872AFen~eou6UtHWwA-1q00-7rCPOPW78_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+Пример на контекстные менеджеры
+
+[contextmanagersexample.slides.html](https://d3c33hcgiwev3.cloudfront.net/_45b8483b2b84700bceb8582a44aaa5f3_contextmanagersexample.slides.html?Expires=1542844800&Signature=LZTiYRLRD6Fhdwni7xCXE3-47ffpVt8xrlSR8DC1CRIoHovNvIAh3nhVGYLu-dLAsCelm6czWHQPBcBSTE9D-qS0EcBspqNUIrh59AszSNVVRI8lGXr3ctHzt8YDKLMrNzYHiokly9EpI9L9HAUtToD9vJf7uFU26-PjmGZCnAA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+[Ссылка на слайды](https://www.coursera.org/learn/diving-in-python/supplement/XAqUt/slaidy)
+
+Дескрипторы
+
+[descriptors.slides.html](https://d3c33hcgiwev3.cloudfront.net/_45b8483b2b84700bceb8582a44aaa5f3_descriptors.slides.html?Expires=1542844800&Signature=PYepSUhqk0f9Wd~aJbLjicl7xCl7xNJn6yn2lY4qPqeumjOkTnYC9m9v5YqDRRlOHA5GyDzy53YBZ~rXV2K4OGz8Kkr9n9XDqDQXJSXtG1vKC2CyX3k-lpyWuCLfBYTm~0DbcIPAJ0F03LsaJcKHbXyBxdSqGo5jllWlFaBrJ00_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+Пример на дескрипторы
+
+[descriptorsexample.slides.html](https://d3c33hcgiwev3.cloudfront.net/_45b8483b2b84700bceb8582a44aaa5f3_descriptorsexample.slides.html?Expires=1542844800&Signature=AQy3XecSv6qsQLXGnflhwSp3WvQsmQea-aOV1ZqXh2JdRu0xExEh4WKi63oLnpwHv2kpxkLFrtCFVoMM-EldubVw8HKRPYjlS2uqIuJcilAyjXUE8HWAPNLIn2bOTwdgAx8qr-QurU0yigE-eJgJnc--C93KPBHD~a3HVSl~Wgw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+Метаклассы
+
+[metaclasses.slides.html](https://d3c33hcgiwev3.cloudfront.net/_45b8483b2b84700bceb8582a44aaa5f3_metaclasses.slides.html?Expires=1542844800&Signature=eapx7tARpse1vvt64y2RJRT1P~ypneb5uQysfEt5Av9MtDC4sWptEXgePQPKrH86apoBlhAFMqCENG4VHYFk9ykwzhrscZOdLg3rVjyNbtyRHBTwLjA8w0eWSuHMiH3toKnaOOOszeL-u6di4d6~hutO~HWaeDFZfVyY3oiZdiQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+[Ссылка на слайды](https://www.coursera.org/learn/diving-in-python/supplement/kbMJD/slaidy)
+
+Отладка
+
+[debugging.slides.html](https://d3c33hcgiwev3.cloudfront.net/_45b8483b2b84700bceb8582a44aaa5f3_debugging.slides.html?Expires=1542844800&Signature=fF7vyCi9KFqz-4ikA-Mefqb9QsrmlndQAUDmL5dkT7ofH47ja7icBhckz9dRSnsmY4Jrb5uq7VZlkz4yyNU1wyoTXIPvkOPHkTZlXlHLB8-hyKXzolWXvPS7m3TrWWdQl0KgRaUw1FkYBb4dfbCum94JD7-nB5zfif40BreKhI4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+Тестирование
+
+[testing.slides.html](https://d3c33hcgiwev3.cloudfront.net/_45b8483b2b84700bceb8582a44aaa5f3_testing.slides.html?Expires=1542844800&Signature=cy9kDUlIxUBdRXqriGU2nEE69CLZ10vYkCdQsfClMz6j-6-KuvLwP0f6TMNJH~iH7iXfv82LcBawHWkw8Ij~sLOSNiHS5X1PphdXYY32WaLNpvkC3qJ-Rh4SFkvOesZUVf~x6dv3N9S5UyCEnVRpNVLat-9B0LYkZkq2wULu3Xk_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)

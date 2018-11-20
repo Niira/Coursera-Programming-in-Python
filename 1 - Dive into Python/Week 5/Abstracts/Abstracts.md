@@ -1,0 +1,3 @@
+[Ссылка на слайды](https://www.coursera.org/learn/diving-in-python/supplement/siVl8/konspiekt-po-niedielie-5)
+
+[W5.pdf](https://d3c33hcgiwev3.cloudfront.net/_0c1c1bede648463ed60e3bd2e67db919_W5.pdf?Expires=1542844800&Signature=NQdNGRTQtl99COjruT~ML3m0a3TP8FyAEFekbJVauMCpEZBWkcV~40MLALTxs0J~XmAPWOT2QJcXnQsX7tjXkmNzWI6UYK2-XYSReSycG0wE77kktm~65-7gWC71c4sas3-BlC9ghTZ2msowYABa4EXpoVB9rPccp9JwXBUQnyM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
