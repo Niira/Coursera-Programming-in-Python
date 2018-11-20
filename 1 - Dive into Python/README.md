@@ -2,7 +2,7 @@
 
  <p>
      <a href="https://www.coursera.org/learn/programming-in-python/">
-         <img src="https://github.com/VulpesCorsac/Coursera-Programming-in-Python/blob/master/Logo.jpg">
+         <img src="https://github.com/VulpesCorsac/Coursera-Programming-in-Python/blob/master/Logo.png">
      </a>
   </p>
 
