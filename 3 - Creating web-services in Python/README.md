@@ -12,13 +12,13 @@
 
 
 Содержание:
-1. [Общее представление о WEB + Сбор данных со сторонних сайтов]()
-2. [Beautiful Soup и работа с API]()
-3. [Хранение данных. SQL / NoSQL]()
-4. [Веб интерфейсы с Django и Bootstrap]()
-5. [Работа с данными пользователя]()
-6. [Дополнительный инструментарий]()
-7. [Проект: умный дом]()
+1. [Общее представление о WEB + Сбор данных со сторонних сайтов](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/3%20-%20Creating%20web-services%20in%20Python/Week%201)
+2. [Beautiful Soup и работа с API](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/3%20-%20Creating%20web-services%20in%20Python/Week%202)
+3. [Хранение данных. SQL / NoSQL](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/3%20-%20Creating%20web-services%20in%20Python/Week%203)
+4. [Веб интерфейсы с Django и Bootstrap](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/3%20-%20Creating%20web-services%20in%20Python/Week%204)
+5. [Работа с данными пользователя](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/3%20-%20Creating%20web-services%20in%20Python/Week%205)
+6. [Дополнительный инструментарий](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/3%20-%20Creating%20web-services%20in%20Python/Week%206)
+7. [Проект: умный дом](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/3%20-%20Creating%20web-services%20in%20Python/Week%207)
 
 
 #### Для кого этот курс ####

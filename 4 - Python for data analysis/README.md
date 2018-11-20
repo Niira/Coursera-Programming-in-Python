@@ -12,12 +12,12 @@ Data science — одна из самых горячих областей на �
 
 
 Содержание:
-1. [Week 1]()
-2. [Week 2]()
-3. [Week 3]()
-4. [Week 4]()
-5. [Week 5]()
-6. [Week 6]()
+1. [Week 1](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/4%20-%20Python%20for%20data%20analysis/Week%201)
+2. [Week 2](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/4%20-%20Python%20for%20data%20analysis/Week%202)
+3. [Week 3](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/4%20-%20Python%20for%20data%20analysis/Week%203)
+4. [Week 4](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/4%20-%20Python%20for%20data%20analysis/Week%204)
+5. [Week 5](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/4%20-%20Python%20for%20data%20analysis/Week%205)
+6. [Week 6](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/4%20-%20Python%20for%20data%20analysis/Week%206)
 
 
 #### Для кого этот курс ####

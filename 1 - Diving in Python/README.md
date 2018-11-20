@@ -12,12 +12,12 @@ Python – простой, гибкий и невероятно популярн
 В ходе курса вы изучите конструкции языка, типы и структуры данных, функции, научитесь применять объектно-ориентированное и функциональное программирование, узнаете про особенности реализации Python, научитесь писать асинхронный и многопоточный код. Помимо теории вас ждут практические задания, которые помогут проверить полученные знания и отточить навыки программирования на Python. После успешного окончания курса вы сможете использовать полученный опыт для разработки проектов различной сложности.
 
 Содержание:
-1. [Введение в Python]()
-2. [Структуры данных и функции]()
-3. [Объектно-ориентированное программирование]()
-4. [Углубленный Python]()
-5. [Многопоточное и асинхронное программирование]()
-6. [Финальный проект]()
+1. [Введение в Python](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/1%20-%20Diving%20in%20Python/Week%201)
+2. [Структуры данных и функции](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/1%20-%20Diving%20in%20Python/Week%202)
+3. [Объектно-ориентированное программирование](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/1%20-%20Diving%20in%20Python/Week%203)
+4. [Углубленный Python](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/1%20-%20Diving%20in%20Python/Week%204)
+5. [Многопоточное и асинхронное программирование](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/1%20-%20Diving%20in%20Python/Week%205)
+6. [Финальный проект](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/1%20-%20Diving%20in%20Python/Week%206)
 
 
 #### Для кого этот курс ####

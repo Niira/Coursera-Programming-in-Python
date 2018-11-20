@@ -11,11 +11,11 @@
 Классические книги по паттернам проектирования описывают их реализацию на C++, C#, Java. У языка Python есть своя специфика из-за которой он отлично подходит для использования паттернов проектирования.
 
 Содержание:
-1. [Тестирование и отладка программ]()
-2. [Объектно-ориентированное проектирование]()
-3. [Паттерны проектирования (часть 1)]()
-4. [Паттерны проектирования (часть 2)]()
-5. [Итоговый проект]()
+1. [Тестирование и отладка программ](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/2%20-%20OOP%20and%20design%20patterns%20in%20Python/Week%201)
+2. [Объектно-ориентированное проектирование](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/2%20-%20OOP%20and%20design%20patterns%20in%20Python/Week%202)
+3. [Паттерны проектирования (часть 1)](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/2%20-%20OOP%20and%20design%20patterns%20in%20Python/Week%203)
+4. [Паттерны проектирования (часть 2)](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/2%20-%20OOP%20and%20design%20patterns%20in%20Python/Week%204)
+5. [Итоговый проект](https://github.com/VulpesCorsac/Coursera-Programming-in-Python/tree/master/2%20-%20OOP%20and%20design%20patterns%20in%20Python/Week%205)
 
 
 #### Для кого этот курс ####
