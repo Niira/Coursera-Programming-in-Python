@@ -1,4 +1,4 @@
-[Создание Web-сервисов на Python](https://www.coursera.org/learn/python-for-web) by Moscow Institute of Physics and Technology & Mail.Ru Group
+[Создание Web-сервисов на Python](https://www.coursera.org/learn/python-for-web) by Moscow Institute of Physics and Technology, Mail.Ru Group & ФРОО
 
  <p>
      <a href="https://www.coursera.org/learn/python-for-web">

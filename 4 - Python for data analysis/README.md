@@ -1,4 +1,4 @@
-[Python для анализа данных](https://www.coursera.org/learn/python-for-data-science) by Moscow Institute of Physics and Technology & Mail.Ru Group
+[Python для анализа данных](https://www.coursera.org/learn/python-for-data-science) by Moscow Institute of Physics and Technology, Mail.Ru Group & ФРОО
 
  <p>
      <a href="https://www.coursera.org/learn/python-for-data-science">

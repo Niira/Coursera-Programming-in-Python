@@ -1,6 +1,6 @@
 # Программирование на Python Specialization #
 
-[Специализация Программирование на Python](https://www.coursera.org/specializations/programming-in-python) by Moscow Institute of Physics and Technology & Mail.Ru Group
+[Специализация Программирование на Python](https://www.coursera.org/specializations/programming-in-python) by Moscow Institute of Physics and Technology, Mail.Ru Group & ФРОО
 
 <p>
     <a href="https://www.coursera.org/specializations/programming-in-python">

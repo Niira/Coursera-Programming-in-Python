@@ -1,4 +1,4 @@
-[Программирование на Python](https://www.coursera.org/learn/programming-in-python/) by Moscow Institute of Physics and Technology & Mail.Ru Group
+[Программирование на Python](https://www.coursera.org/learn/programming-in-python/) by Moscow Institute of Physics and Technology, Mail.Ru Group & ФРОО
 
  <p>
      <a href="https://www.coursera.org/learn/programming-in-python/">

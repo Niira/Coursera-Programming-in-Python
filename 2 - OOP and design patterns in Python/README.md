@@ -1,4 +1,4 @@
-[ООП и паттерны проектирования в Python](https://www.coursera.org/learn/oop-patterns-python) by Moscow Institute of Physics and Technology & Mail.Ru Group
+[ООП и паттерны проектирования в Python](https://www.coursera.org/learn/oop-patterns-python) by Moscow Institute of Physics and Technology, Mail.Ru Group & ФРОО
 
  <p>
      <a href="https://www.coursera.org/learn/oop-patterns-python">
